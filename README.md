@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm passionate about coding, building projects, an
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/priyanshusingh999/priyanshusingh999/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="[https://github.com/priyanshusingh999/priyanshusingh999/raw/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)" alt="Snake animation" />
 </p>
 
 ## 🌐 Let's Connect
