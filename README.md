@@ -9,9 +9,20 @@ Welcome to my GitHub profile! I'm passionate about coding, building projects, an
 - 🛠️ Currently exploring Machine Learning and Backend Development
 
 ## 🔥 My Skills
-- **Languages:** Python
-- **Frameworks:** Django
+- **Languages:** Python, SQL
+- **Frameworks:** Django, Flask, Streamlit
+- **Web Scraping:** BeautifulSoup, Selenium
+- **Database:** SQLite
 - **Tools:** Git, GitHub, VS Code
+
+## 🚀 Deployment Skills
+
+I can deploy production-ready applications on:
+
+- 🌐 **Render** – For backend APIs and full-stack Flask/Streamlit apps
+- ☁️ **Koyeb** – For lightweight Python bots and services
+- 🚂 **Railway** – For quick full-stack app hosting with PostgreSQL
+
 
 ## 📈 GitHub Stats
 <p align="center">
