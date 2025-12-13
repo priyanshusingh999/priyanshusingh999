@@ -9,10 +9,10 @@ Welcome to my GitHub profile! I'm passionate about coding, building projects, an
 - 🛠️ Currently exploring Machine Learning and Backend Development
 
 ## 🔥 My Skills
-- **Languages:** Python, SQL
+- **Languages:** Python
 - **Frameworks:** Django, Flask, Streamlit
 - **Web Scraping:** BeautifulSoup, Selenium
-- **Database:** SQLite
+- **Database:** SQLite, MongoDB
 - **Tools:** Git, GitHub, VS Code
 
 ## 🚀 Deployment Skills
